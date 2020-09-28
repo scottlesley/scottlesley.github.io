@@ -3,6 +3,13 @@ body {
     font-family: 'Times New Roman', Arial, sans-serif;
 }
 
+.assignment {
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background: orange;
+}
+
 h1 {
     text-align: center;
 }
