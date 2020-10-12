@@ -1,6 +1,6 @@
 body {
     background: tan;
-    font-family: 'Times New Roman', Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .assignment {
@@ -12,9 +12,14 @@ body {
 
 .assignment img {
     width:200px;
-    padding:10px;
+    border:6px solid #A8763E;
+    margin-right: 20px;
 }
 
 h1 {
     text-align: center;
+}
+
+a {
+    color: #F7F3E3;
 }
